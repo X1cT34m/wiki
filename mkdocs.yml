@@ -20,11 +20,22 @@ theme:
     repo: fontawesome/brands/github 
 
 nav:
-  - Home: index.md
-  - Guide: guide.md
-  - Web: web.md
-  - Pwn: pwn.md
-  - Reverse: reverse.md
-  - Crypto: crypto.md
-  - Misc: misc.md
-  - About: about.md
+  - Home:
+    - 主页: index.md
+    - 关于我们: about.md
+    - 招新要求: join.md
+  - Introduction:
+    - 如何正确的提问: introduction/ask.md
+    - CTF 介绍: introduction/ctf.md
+    - 学习资料: introduction/website.md
+    - 常见 QA: introduction/qa.md
+  - Web:
+    - 入门指北: web/guide.md
+  - Pwn:
+    - 入门指北: pwn/guide.md
+  - Reverse:
+    - 入门指北: reverse/guide.md
+  - Crypto:
+    - 入门指北: crypto/guide.md
+  - Misc:
+    - 入门指北: misc/guide.md

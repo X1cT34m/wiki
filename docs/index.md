@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# X1cT34m Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+X1cT34m Wiki 是南京邮电大学小绿草信息安全科创实验室 X1cT34m 的官方 CTF 入门 & 招新网站
 
-## Commands
+Wiki 由 X1cT34m 成员共同维护, 旨在为校内对 CTF 感兴趣的零基础同学提供一份入门指南
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+2024 南邮 CTF 招新 QQ 群 (仅限校内用户加入): 343206347
