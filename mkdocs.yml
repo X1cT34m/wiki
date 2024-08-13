@@ -4,6 +4,8 @@ site_url: https://wiki.x1ct34m.com
 repo_url: https://github.com/X1cT34m/wiki
 repo_name: X1cT34m/wiki
 
+copyright: Copyright &copy; 2016 - 2024 X1cT34m
+
 theme:
   name: material
   language: zh
@@ -15,9 +17,15 @@ theme:
     - navigation.tabs
     - navigation.instant
     - navigation.top
+    - navigation.footer
 
   icon:
     repo: fontawesome/brands/github 
+
+plugins:
+  - git-revision-date-localized:
+      enabled: true
+      enable_creation_date: false
 
 nav:
   - Home:
@@ -27,15 +35,21 @@ nav:
   - Introduction:
     - 如何正确的提问: introduction/ask.md
     - CTF 介绍: introduction/ctf.md
-    - 学习资料: introduction/website.md
+    - 入门资料: introduction/docs.md
+    - 从 0 到 1: introduction/from-zero-to-one.md
     - 常见 QA: introduction/qa.md
   - Web:
-    - 入门指北: web/guide.md
+    - 入门指南: web/guide.md
+    - 常用工具: web/tools.md
   - Pwn:
-    - 入门指北: pwn/guide.md
+    - 入门指南: pwn/guide.md
+    - 常用工具: pwn/tools.md
   - Reverse:
-    - 入门指北: reverse/guide.md
+    - 入门指南: reverse/guide.md
+    - 常用工具: reverse/tools.md
   - Crypto:
-    - 入门指北: crypto/guide.md
+    - 入门指南: crypto/guide.md
+    - 常用工具: crypto/tools.md
   - Misc:
-    - 入门指北: misc/guide.md
+    - 入门指南: misc/guide.md
+    - 常用工具: misc/tools.md

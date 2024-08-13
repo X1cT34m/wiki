@@ -1,17 +1,15 @@
 # 入门资料
 
-## 入学必读
+## 新生必读
 
-> 本部分不仅仅适用于学习 CTF 的同学, 也适用于所有**学习计算机相关专业**的同学.
+> 本部分不仅仅适用于学习 CTF 的同学, 也适用于所有**学习计算机相关专业**的同学
 
-这部分的内容主要是为了让零基础的新生学习如何正确的使用 Google/Bing 搜索引擎检索信息, 以及如何正确的截图和提问
+这部分的内容主要是为了让零基础的新生学习如何正确的使用 Google/Bing 搜索引擎检索信息, 如何正确的截图和提问
 
 同时也需要认识到国内大学的现状, 以及如何正确规划自己的未来
 
 - [校科协方草地公开课](https://www.bilibili.com/video/BV1tu41137Ad)
-
 - [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
-
 - [暨南大学 Xp0int 战队的入门指南](https://xp0int-team.feishu.cn/wiki/wikcnnWbXXGELt1xHkyBhvdQKrh)
 
 ## CTF Wiki
@@ -53,6 +51,7 @@
     - 开发者手册 分类: [https://www.ruanyifeng.com/blog/developer/](https://www.ruanyifeng.com/blog/developer/)
 - 鸟哥的 Linux 私房菜: [https://linux.vbird.org/](https://linux.vbird.org/)
 - Docker 从入门到实践: [https://vuepress.mirror.docker-practice.com/](https://vuepress.mirror.docker-practice.com/)
+- CS 自学指南: [https://csdiy.wiki/](https://csdiy.wiki/)
 
 ## 书籍推荐
 
