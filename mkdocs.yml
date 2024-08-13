@@ -1,7 +1,30 @@
-site_name: My Docs
+site_name: X1cT34m Wiki
+site_url: https://wiki.x1ct34m.com
+
+repo_url: https://github.com/X1cT34m/wiki
+repo_name: X1cT34m/wiki
 
 theme:
   name: material
   language: zh
+
   palette:
     primary: white
+
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.top
+
+  icon:
+    repo: fontawesome/brands/github 
+
+nav:
+  - Home: index.md
+  - Guide: guide.md
+  - Web: web.md
+  - Pwn: pwn.md
+  - Reverse: reverse.md
+  - Crypto: crypto.md
+  - Misc: misc.md
+  - About: about.md
