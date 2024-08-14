@@ -16,6 +16,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.instant
+    - navigation.instant.progress
     - navigation.top
     - navigation.footer
 
@@ -23,6 +24,7 @@ theme:
     repo: fontawesome/brands/github 
 
 plugins:
+  - search
   - git-revision-date-localized:
       enabled: true
       enable_creation_date: false
@@ -33,7 +35,7 @@ nav:
     - 关于我们: about.md
     - 招新要求: join.md
   - Introduction:
-    - 如何正确的提问: introduction/ask.md
+    - 如何正确的提问: introduction/how-to-ask.md
     - CTF 介绍: introduction/ctf.md
     - 入门资料: introduction/docs.md
     - 从 0 到 1: introduction/from-zero-to-one.md
