@@ -18,7 +18,7 @@ NCTF 是南邮小绿草战队每年 12 月举办的为期 2 天的 CTF 比赛, �
 
 可以结合 [Hello CTF](https://hello-ctf.com/)、[CTF Wiki](https://ctf-wiki.org/) 或搜索引擎, 先对各个方向有个基本的了解, 然后选择一个自己感兴趣的方向
 
-CTF 主要分为 Web, Pwn, Reverse, Crypto, Misc 五个方向, 不过现在一些国内外比赛中也会存在 Blockchain (区块链) 和 Forensic (取证) 方向, 但在部分比赛中这两个方向会被归到 Misc 分配, 当然也有 Mobile (移动安全) 方向, 主要研究 Android 和 iOS 系统, 同样部分比赛会把它归到 Reverse 的范围
+CTF 主要分为 Web, Pwn, Reverse, Crypto, Misc 五个方向, 不过现在一些国内外比赛中也会存在 Blockchain (区块链) 和 Forensic (取证) 方向, 但在部分比赛中这两个方向会被归到 Misc 里面, 当然也有 Mobile (移动安全) 方向, 主要研究 Android 和 iOS 系统, 同样部分比赛会把它归到 Reverse 的范围
 
 CTF 的五个方向各具特点, 俗话说 "隔行如隔山", 因此需要谨慎选择并坚持走下去
 
