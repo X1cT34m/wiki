@@ -12,8 +12,10 @@
     - 官网: [https://ctf.xidian.edu.cn](https://ctf.xidian.edu.cn)
     - 时间: 2024 年 8 月 10 日 - 2024 年 10 月 14 日
     - 介绍: 由西电信息安全协会 (XDSEC) 主办的一场面向 0 基础新生的 CTF 比赛
+    - QQ 群: 187536315
 
-- BaseCTF 2024
-    - 官网: [https://www.basectf.fun](https://www.basectf.fun)
-    - 时间: 2024 年 08 月 15 日 - 2024 年 9 月 30 日
+- NewStar CTF 2024
+    - 官网: [https://ns.openctf.net](https://ns.openctf.net)
+    - 时间: 2024 年 9 月 30 日 - 2024 年 11 月 3 日
     - 介绍: 多校联合举办、面向新生/刚入门萌新的 CTF 比赛
+    - QQ 群: 1169651901
