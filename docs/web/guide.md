@@ -1,5 +1,7 @@
 # Web
 
+> 0xGame 2024 Web 入门 & 环境配置: [https://www.bilibili.com/video/BV1fz1BYfEpK/](https://www.bilibili.com/video/BV1fz1BYfEpK/)
+
 ## 什么是 Web 安全
 
 通俗一点来讲, 就是如何黑掉 (入侵) Web 网站, 以及如何保护 Web 网站不被黑掉 (入侵)
