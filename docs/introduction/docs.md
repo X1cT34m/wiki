@@ -11,6 +11,7 @@
 - [校科协方草地公开课](https://www.bilibili.com/video/BV1tu41137Ad)
 - [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
 - [暨南大学 Xp0int 战队的入门指南](https://xp0int-team.feishu.cn/wiki/wikcnnWbXXGELt1xHkyBhvdQKrh)
+- [0xFFFF CS Wiki](https://wiki.0xffff.one/)
 
 ## CTF Wiki
 
