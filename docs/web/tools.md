@@ -30,7 +30,7 @@
 - [JetBrains IDE](https://www.jetbrains.com/)
     - Intellij IDEA, PyCharm, PHPStorm, GoLand, CLion
 
-## 编程语言 (Runtime)
+## 编程语言
 
 - [Python](https://www.python.org/)
     - requests: `pip3 install requests`
