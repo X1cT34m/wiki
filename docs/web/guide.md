@@ -29,6 +29,8 @@ Web 安全的知识点涉及到各种漏洞, 这些漏洞可能会泄露目标�
 
 - [https://hello-ctf.com/HC_Web/](https://hello-ctf.com/HC_Web/)
 
+- [https://github.com/usamikinoko/hello-web](https://github.com/usamikinoko/hello-web)
+
 初期需要对各个漏洞有一个基本的理解, 知道他们是干什么的? 有什么危害? 如何检测? 如何利用?
 
 (可以边做 CTF 题边学)
