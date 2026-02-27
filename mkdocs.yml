@@ -4,7 +4,7 @@ site_url: https://wiki.x1ct34m.com
 repo_url: https://github.com/X1cT34m/wiki
 repo_name: X1cT34m/wiki
 
-copyright: Copyright &copy; 2016 - 2024 X1cT34m
+copyright: Copyright &copy; 2016 - 2024 X1cT34m · <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener">苏ICP备2026008980号-1</a>
 
 theme:
   name: material
