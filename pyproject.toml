@@ -1,17 +1,15 @@
-[tool.poetry]
+[project]
 name = "wiki"
 version = "0.1.0"
-description = ""
-authors = ["X1r0z <i@exp10it.io>"]
+description = "Add your description here"
 readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-git-revision-date-localized-plugin>=1.5.1",
+    "mkdocs-material>=9.7.3",
+]
 
-[tool.poetry.dependencies]
-python = "^3.11"
-mkdocs = "^1.6.1"
-mkdocs-material = "^9.5.40"
-mkdocs-git-revision-date-localized-plugin = "^1.2.9"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+[[tool.uv.index]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+default = true
